@@ -1,0 +1,22 @@
+{
+  "name": "@nerdcalistenico/github",
+  "version": "0.0.0",
+  "description": "github API",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdcalistenico/github.git"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (https://nerdcalistenico.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerdcalistenico/github/issues"
+  },
+  "homepage": "https://github.com/nerdcalistenico/github#readme"
+}
