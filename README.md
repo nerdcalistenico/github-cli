@@ -1,12 +1,12 @@
-# Github API
+# Github CLI
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![GitHub issues](https://img.shields.io/github/issues/nerdcalistenico/github.svg)](https://github.com/nerdcalistenico/github/issues)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/nerdcalistenico/github.svg)
-![GitHub Release Date](https://img.shields.io/github/release-date/nerdcalistenico/github.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/nerdcalistenico/github.svg)
-![GitHub repo size](https://img.shields.io/github/repo-size/nerdcalistenico/github.svg)
-![GitHub All Releases](https://img.shields.io/github/downloads/nerdcalistenico/github/total.svg)
+[![GitHub issues](https://img.shields.io/github/issues/nerdcalistenico/github-cli.svg)](https://github.com/nerdcalistenico/github-cli/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/nerdcalistenico/github-cli.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/nerdcalistenico/github-cli.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/nerdcalistenico/github-cli.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/nerdcalistenico/github-cli.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/nerdcalistenico/github-cli/total.svg)
 
 
 ## Prerequisites
@@ -33,7 +33,7 @@ Git's merge commit message
 
 ## Log
 
-Check [Releases](https://github.com/nerdcalistenico/github/releases) for detailed changelog.
+Check [Releases](https://github.com/nerdcalistenico/github-cli/releases) for detailed changelog.
 
 ## License
 
