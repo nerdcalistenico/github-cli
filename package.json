@@ -1,0 +1,27 @@
+{
+  "name": "@nerdcalistenico/github-cli",
+  "version": "0.0.0",
+  "description": "github CLI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdcalistenico/github-cli.git"
+  },
+  "keywords": [
+    "github"
+  ],
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (https://nerdcalistenico.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nerdcalistenico/github-cli/issues"
+  },
+  "homepage": "https://github.com/nerdcalistenico/github-cli#readme",
+  "dependencies": {
+    "@octokit/rest": "18.0.0",
+    "async": "3.2.0",
+    "meow": "7.0.1"
+  }
+}
